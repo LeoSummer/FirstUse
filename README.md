@@ -1,3 +1,3 @@
 # FirstUse
-nothing
 Bravo!
+Nice!
